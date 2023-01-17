@@ -29,7 +29,7 @@
 
 <div align="center">
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiw0n)](https://solved.ac/jiw0n/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seonghoon07)](https://solved.ac/seonghoon07/)
 
 </div>
 
