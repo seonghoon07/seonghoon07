@@ -29,7 +29,7 @@
 <div align="center">
 
 <h1 align="center"> 🏆 Awards 🏆</h1>
-  <p><strong></strong></p>
+  <p><strong>부산 소마고 알고리즘 경진대회 장려상 수상</strong></p>
   <p><strong></strong></p>
 
 </div>
