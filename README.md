@@ -14,7 +14,7 @@
 
 <div align="center"> 
 
-  ![J1W0N's github stats](https://github-readme-stats.vercel.app/api?username=J1W0N-1209&show_icons=true)
+  ![seonghoon's github stats](https://github-readme-stats.vercel.app/api?username=seonghoon07&show_icons=true)
 
 </div>
 
