@@ -3,11 +3,11 @@
 
 
 
-<h1 align="center">🛠 Tech Stack 🛠
+<h1 align="center">🛠 Tech Stack 🛠</h1>
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 
 
-</h1>
+
 
 
 <h1 align="center">🌹 Me 🌹</h1>
