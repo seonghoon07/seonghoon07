@@ -4,7 +4,7 @@
 
 
 <h1 align="center">🛠 Tech Stack 🛠</h1>
-![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=#F7DF1E)
+![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 
 
 
