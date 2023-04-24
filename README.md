@@ -21,11 +21,13 @@
 
 <h1 align="center">🌹 Me 🌹</h1>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonghoon07)](https://github.com/seonghoon07/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonghoon07)](https://github.com/seonghoon07/github-readme-stats)
 
 
+<div>
+  ![seonghoon's github stats](https://github-readme-stats.vercel.app/api?username=seonghoon07&show_icons=true)
+</div>
 
-![seonghoon's github stats](https://github-readme-stats.vercel.app/api?username=seonghoon07&show_icons=true)
 
 
 <h1 align="center">📒 Baekjoon 📒</h1>
