@@ -5,5 +5,5 @@
 <hr>
 <div align="center">
   
-  <h2>제 <a href="https://velog.io/@seonghoon07">블로그</a>에 놀러오세요!</h2>
+  <h2>제 <a href="https://velog.io/@seonghoon07">벨로그</a>에 놀러오세요!</h2>
 </div>
