@@ -21,12 +21,12 @@
 
 <h1 align="center">🌹 Me 🌹</h1>
 
-<div align="center">
+<div align="center"> 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonghoon07)](https://github.com/seonghoon07/github-readme-stats)
-
+[![](https://raw.githubusercontent.com/seonghoon07/seonghoon07/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/seonghoon07/seonghoon07/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/seonghoon07/seonghoon07/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/seonghoon07/seonghoon07/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/seonghoon07/seonghoon07/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   
-  ![seonghoon's github stats](https://github-readme-stats.vercel.app/api?username=seonghoon07&show_icons=true)
 </div>
 
 
